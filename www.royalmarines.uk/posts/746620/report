@@ -1,0 +1,1368 @@
+<!DOCTYPE html>
+<html id="XF" lang="en-GB" dir="LTR"
+	data-app="public"
+	data-template="report_create"
+	data-container-key="node-12"
+	data-content-key=""
+	data-logged-in="true"
+	data-cookie-prefix="xf_"
+	data-csrf="1619181398,e11c734d39af957d76c994e22a6f9933"
+	class="has-no-js template-report_create"
+	>
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+
+	
+	
+	
+
+	
+	<title>Report content | Royal Marines</title>
+
+
+	
+
+	
+		
+	
+	
+	<meta property="og:site_name" content="Royal Marines" />
+
+
+	
+	
+		
+	
+	
+	<meta property="og:type" content="website" />
+
+
+	
+	
+		
+	
+	
+	
+	
+		<meta property="og:title" content="Report content" />
+		<meta property="twitter:title" content="Report content" />
+	
+
+
+
+	
+	
+	
+		
+	
+	
+	<meta property="og:url" content="https://www.royalmarines.uk/posts/746620/report" />
+
+
+	
+	
+
+	
+		<meta name="theme-color" content="#252728" />
+	
+
+	
+	
+
+	
+
+
+	<link rel="preload" href="../../styles/fonts/fa/fa-regular-400.woff2@_v=5.15.1" as="font" type="font/woff2" crossorigin="anonymous" />
+
+
+	<link rel="preload" href="../../styles/fonts/fa/fa-solid-900.woff2@_v=5.15.1" as="font" type="font/woff2" crossorigin="anonymous" />
+
+
+<link rel="preload" href="../../styles/fonts/fa/fa-brands-400.woff2@_v=5.15.1" as="font" type="font/woff2" crossorigin="anonymous" />
+
+	<link rel="stylesheet" href="../../css.php@css=public%253Anormalize.css,public%253Afa.css,public%253Acore.less,public%253Aapp.less&amp;s=7&amp;l=1&amp;d=1618860172&amp;k=1fdd453e496947cdece1a3b5148561c0f4eb7082" />
+
+	<link rel="stylesheet" href="../../css.php@css=public%253Aextra.less&amp;s=7&amp;l=1&amp;d=1618860172&amp;k=abd48cad911267fd38b2b9b9bac2ed8ad9517707" />
+
+	
+		<script src="../../js/xf/preamble.min.js@_v=67ce1dfd"></script>
+	
+
+
+	
+		<link rel="icon" type="image/png" href="../../styles/img/logo.png" sizes="32x32" />
+	
+	
+	
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-55870073-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'UA-55870073-1', {
+			// 
+			
+			
+		});
+	</script>
+
+</head>
+<body data-template="report_create">
+
+<div class="p-pageWrapper" id="top">
+
+
+
+    <div class="fc_newnav">
+    
+    
+        <nav class="p-nav">
+		<div class="p-nav-inner">
+		
+
+			
+
+			<div class="p-nav-scroller hScroller" data-xf-init="h-scroller" data-auto-scroll=".p-navEl.is-selected">
+				<div class="hScroller-scroll">
+					<ul class="p-nav-list js-offCanvasNavSource">
+				
+						<li class="p-navEl"><a href="../../index.html">Home</a></li>
+						<li class="p-navEl"><a href="../../forums/stickies-frequently-asked-questions.35/index.html">FAQs</a></li>
+                        <li class="p-navEl"><a href="https://www.royalnavy.mod.uk/careers/royal-marines">Careers</a></li>
+                        <li class="p-navEl"><a href="https://www.royalnavy.mod.uk/careers/joining/get-ready-to-join/royal-marines-commando/am-i-eligible">Eligibility</a></li>
+                        <li class="p-navEl"><a href="https://www.royalnavy.mod.uk/careers/register?action=apply&status=formstart&role=RMC057">Apply - Royal Marines</a></li>
+                        <li class="p-navEl"><a href="https://ore.exeter.ac.uk/repository/bitstream/handle/10036/58653/RMethos4.pdf">Ethos</a></li>
+                        <li class="p-navEl"><a href="../../attachments/corpsknowledgehandout-jan2020-pdf.7182/index.html">Factsheet</a></li>
+                        <li class="p-navEl"><a href="../../threads/sbs-r.129821/index.html">SBS(R)</a></li>
+                        <li class="p-navEl"><a href="https://twitter.com/rossw2795">RSM CTCRM Twitter</a></li>
+						<li class="p-navEl"><a href="https://www.royalnavy.mod.uk/careers/royal-marines/what-can-i-do/royal-marines-band-service">RM Band Service</a></li>
+ 						<li class="p-navEl"><a href="../../tags/royal-marines-cadets/index.html">RM Cadets</a></li>
+                        
+					
+					</ul>
+				</div>
+			</div>
+
+			
+		</div>
+	</nav>
+    
+    
+    
+    </div>
+    
+    
+<header class="p-header" id="header">
+	<div class="p-header-inner">
+		<div class="p-header-content">
+
+			<div class="p-header-logo p-header-logo--image">
+				<a href="../../index.html">
+					<img src="../../styles/img/rm-new-logo.jpg"
+						alt="Royal Marines"
+						 />
+				</a>
+			</div>
+
+			
+		</div>
+	</div>
+</header>
+
+
+
+
+
+	<div class="p-navSticky p-navSticky--primary" data-xf-init="sticky-header">
+		
+	<nav class="p-nav">
+		<div class="p-nav-inner">
+			<a class="p-nav-menuTrigger" data-xf-click="off-canvas" data-menu=".js-headerOffCanvasMenu" role="button" tabindex="0">
+				<i aria-hidden="true"></i>
+				<span class="p-nav-menuText">Menu</span>
+			</a>
+
+			<div class="p-nav-smallLogo">
+				<a href="../../index.html">
+					<img src="../../styles/img/rm-new-logo.jpg"
+						alt="Royal Marines"
+					 />
+				</a>
+			</div>
+
+			<div class="p-nav-scroller hScroller" data-xf-init="h-scroller" data-auto-scroll=".p-navEl.is-selected">
+				<div class="hScroller-scroll">
+					<ul class="p-nav-list js-offCanvasNavSource">
+					
+						<li>
+							
+	<div class="p-navEl " >
+		
+
+			
+	
+	<a href="../../index.html"
+		class="p-navEl-link "
+		
+		data-xf-key="1"
+		data-nav-id="home">Home</a>
+
+
+			
+
+		
+		
+	</div>
+
+						</li>
+					
+						<li>
+							
+	<div class="p-navEl is-selected" data-has-children="true">
+		
+
+			
+	
+	<a href="../../index.html"
+		class="p-navEl-link p-navEl-link--splitMenu "
+		
+		
+		data-nav-id="forums">Forums</a>
+
+
+			<a data-xf-key="2"
+				data-xf-click="menu"
+				data-menu-pos-ref="< .p-navEl"
+				class="p-navEl-splitTrigger"
+				role="button"
+				tabindex="0"
+				aria-label="Toggle expanded"
+				aria-expanded="false"
+				aria-haspopup="true"></a>
+
+		
+		
+			<div class="menu menu--structural" data-menu="menu" aria-hidden="true">
+				<div class="menu-content">
+					
+						
+	
+	
+	<a href="../../whats-new/posts/index.html"
+		class="menu-linkRow u-indentDepth0 js-offCanvasCopy "
+		
+		
+		data-nav-id="newPosts">New posts</a>
+
+	
+
+					
+						
+	
+	
+	<a href="../../find-threads/started"
+		class="menu-linkRow u-indentDepth0 js-offCanvasCopy "
+		
+		
+		data-nav-id="findThreads">Find threads</a>
+
+	
+		
+			
+	
+	
+	<a href="../../find-threads/started"
+		class="menu-linkRow u-indentDepth1 js-offCanvasCopy "
+		
+		
+		data-nav-id="yourThreads">Your threads</a>
+
+	
+
+		
+			
+	
+	
+	<a href="../../find-threads/contributed"
+		class="menu-linkRow u-indentDepth1 js-offCanvasCopy "
+		
+		
+		data-nav-id="contributedThreads">Threads with your posts</a>
+
+	
+
+		
+			
+	
+	
+	<a href="../../find-threads/unanswered"
+		class="menu-linkRow u-indentDepth1 js-offCanvasCopy "
+		
+		
+		data-nav-id="unansweredThreads">Unanswered threads</a>
+
+	
+
+		
+		
+			<hr class="menu-separator" />
+		
+	
+
+					
+						
+	
+	
+	<a href="../../watched/threads"
+		class="menu-linkRow u-indentDepth0 js-offCanvasCopy "
+		
+		
+		data-nav-id="watched">Watched</a>
+
+	
+		
+			
+	
+	
+	<a href="../../watched/threads"
+		class="menu-linkRow u-indentDepth1 js-offCanvasCopy "
+		
+		
+		data-nav-id="watchedThreads">Watched threads</a>
+
+	
+
+		
+			
+	
+	
+	<a href="../../watched/forums"
+		class="menu-linkRow u-indentDepth1 js-offCanvasCopy "
+		
+		
+		data-nav-id="watchedForums">Watched forums</a>
+
+	
+
+		
+		
+			<hr class="menu-separator" />
+		
+	
+
+					
+						
+	
+	
+	<a href="../../search/index.html@type=post"
+		class="menu-linkRow u-indentDepth0 js-offCanvasCopy "
+		
+		
+		data-nav-id="searchForums">Search forums</a>
+
+	
+
+					
+						
+	
+	
+	<a href="https://www.royalmarines.uk/forums/-/mark-read?date=1619181398"
+		class="menu-linkRow u-indentDepth0 js-offCanvasCopy "
+		 data-xf-click="overlay"
+		
+		data-nav-id="markForumsRead">Mark forums read</a>
+
+	
+
+					
+						
+	
+	
+	<a href="../../history/index.html"
+		class="menu-linkRow u-indentDepth0 js-offCanvasCopy "
+		
+		
+		data-nav-id="history">History</a>
+
+	
+
+					
+				</div>
+			</div>
+		
+	</div>
+
+						</li>
+					
+						<li>
+							
+	<div class="p-navEl " data-has-children="true">
+		
+
+			
+	
+	<a href="../../whats-new/index.html"
+		class="p-navEl-link p-navEl-link--splitMenu "
+		
+		
+		data-nav-id="whatsNew">What's new</a>
+
+
+			<a data-xf-key="3"
+				data-xf-click="menu"
+				data-menu-pos-ref="< .p-navEl"
+				class="p-navEl-splitTrigger"
+				role="button"
+				tabindex="0"
+				aria-label="Toggle expanded"
+				aria-expanded="false"
+				aria-haspopup="true"></a>
+
+		
+		
+			<div class="menu menu--structural" data-menu="menu" aria-hidden="true">
+				<div class="menu-content">
+					
+						
+	
+	
+	<a href="../../whats-new/posts/index.html"
+		class="menu-linkRow u-indentDepth0 js-offCanvasCopy "
+		 rel="nofollow"
+		
+		data-nav-id="whatsNewPosts">New posts</a>
+
+	
+
+					
+						
+	
+	
+	<a href="../../whats-new/news-feed"
+		class="menu-linkRow u-indentDepth0 js-offCanvasCopy "
+		 rel="nofollow"
+		
+		data-nav-id="whatsNewNewsFeed">Your news feed</a>
+
+	
+
+					
+						
+	
+	
+	<a href="../../whats-new/latest-activity"
+		class="menu-linkRow u-indentDepth0 js-offCanvasCopy "
+		 rel="nofollow"
+		
+		data-nav-id="latestActivity">Latest activity</a>
+
+	
+
+					
+				</div>
+			</div>
+		
+	</div>
+
+						</li>
+					
+						<li>
+							
+	<div class="p-navEl " data-has-children="true">
+		
+
+			
+	
+	<a href="https://www.royalmarines.uk/members/"
+		class="p-navEl-link p-navEl-link--splitMenu "
+		
+		
+		data-nav-id="members">Members</a>
+
+
+			<a data-xf-key="4"
+				data-xf-click="menu"
+				data-menu-pos-ref="< .p-navEl"
+				class="p-navEl-splitTrigger"
+				role="button"
+				tabindex="0"
+				aria-label="Toggle expanded"
+				aria-expanded="false"
+				aria-haspopup="true"></a>
+
+		
+		
+			<div class="menu menu--structural" data-menu="menu" aria-hidden="true">
+				<div class="menu-content">
+					
+						
+	
+	
+	<a href="../../online/index.html"
+		class="menu-linkRow u-indentDepth0 js-offCanvasCopy "
+		
+		
+		data-nav-id="currentVisitors">Current visitors</a>
+
+	
+
+					
+				</div>
+			</div>
+		
+	</div>
+
+						</li>
+					
+						<li>
+							
+	<div class="p-navEl " >
+		
+
+			
+	
+	<a href="https://www.royalmarines.uk/history"
+		class="p-navEl-link "
+		
+		data-xf-key="5"
+		data-nav-id="viewinghistory">Viewing History</a>
+
+
+			
+
+		
+		
+	</div>
+
+						</li>
+					
+					</ul>
+				</div>
+			</div>
+
+			<div class="p-nav-opposite">
+				<div class="p-navgroup p-account p-navgroup--member">
+					
+						
+							<a href="../../account/index.html"
+								class="p-navgroup-link p-navgroup-link--iconic p-navgroup-link--user"
+								data-xf-click="menu"
+								data-xf-key="m"
+								data-menu-pos-ref="< .p-navgroup"
+								aria-expanded="false"
+								aria-haspopup="true">
+								<span class="avatar avatar--xxs avatar--default avatar--default--dynamic" data-user-id="33459" style="background-color: #339966; color: #06130d" title="new">
+			<span class="avatar-u33459-s">N</span> 
+		</span>
+								<span class="p-navgroup-linkText">new</span>
+							</a>
+							<div class="menu menu--structural menu--wide menu--account" data-menu="menu" aria-hidden="true"
+								data-href="/account/visitor-menu"
+								data-load-target=".js-visitorMenuBody">
+								<div class="menu-content js-visitorMenuBody">
+									<div class="menu-row">
+										Loading…
+									</div>
+								</div>
+							</div>
+
+							<a href="../../conversations/index.html"
+								class="p-navgroup-link p-navgroup-link--iconic p-navgroup-link--conversations js-badge--conversations badgeContainer"
+								data-badge="0"
+								data-xf-click="menu"
+								data-xf-key=","
+								data-menu-pos-ref="< .p-navgroup"
+								aria-label="Inbox"
+								aria-expanded="false"
+								aria-haspopup="true">
+								<i aria-hidden="true"></i>
+								<span class="p-navgroup-linkText"></span>
+							</a>
+							<div class="menu menu--structural menu--medium" data-menu="menu" aria-hidden="true"
+								data-href="/conversations/popup"
+								data-nocache="true"
+								data-load-target=".js-convMenuBody">
+								<div class="menu-content">
+									<h3 class="menu-header">Private Messages</h3>
+									<div class="js-convMenuBody">
+										<div class="menu-row">Loading…</div>
+									</div>
+									<div class="menu-footer menu-footer--split">
+										<span class="menu-footer-main">
+											<a href="../../conversations/index.html">Show all…</a>
+										</span>
+										
+											<span class="menu-footer-opposite">
+												<a href="../../conversations/add">Start a new conversation</a>
+											</span>
+										
+									</div>
+								</div>
+							</div>
+
+							<a href="../../account/alerts"
+								class="p-navgroup-link p-navgroup-link--iconic p-navgroup-link--alerts js-badge--alerts badgeContainer"
+								data-badge="0"
+								data-xf-click="menu"
+								data-xf-key="."
+								data-menu-pos-ref="< .p-navgroup"
+								aria-label="Alerts"
+								aria-expanded="false"
+								aria-haspopup="true">
+								<i aria-hidden="true"></i>
+								<span class="p-navgroup-linkText"></span>
+							</a>
+							<div class="menu menu--structural menu--medium" data-menu="menu" aria-hidden="true"
+								data-href="/account/alerts-popup"
+								data-nocache="true"
+								data-load-target=".js-alertsMenuBody">
+								<div class="menu-content">
+									<h3 class="menu-header">Alerts</h3>
+									<div class="js-alertsMenuBody">
+										<div class="menu-row">Loading…</div>
+									</div>
+									<div class="menu-footer menu-footer--split">
+										<span class="menu-footer-main">
+											<a href="../../account/alerts">Show all…</a>
+										</span>
+										<span class="menu-footer-opposite">
+											<a href="../../account/preferences">Preferences</a>
+										</span>
+									</div>
+								</div>
+							</div>
+						
+					
+				</div>
+
+				<div class="p-navgroup p-discovery">
+					<a href="../../whats-new/index.html"
+						class="p-navgroup-link p-navgroup-link--iconic p-navgroup-link--whatsnew"
+						aria-label="What&#039;s new"
+						title="What&#039;s new">
+						<i aria-hidden="true"></i>
+						<span class="p-navgroup-linkText">What's new</span>
+					</a>
+
+					
+						<a href="../../search/index.html"
+							class="p-navgroup-link p-navgroup-link--iconic p-navgroup-link--search"
+							data-xf-click="menu"
+							data-xf-key="/"
+							aria-label="Search"
+							aria-expanded="false"
+							aria-haspopup="true"
+							title="Search">
+							<i aria-hidden="true"></i>
+							<span class="p-navgroup-linkText">Search</span>
+						</a>
+						<div class="menu menu--structural menu--wide" data-menu="menu" aria-hidden="true">
+							<form action="https://www.royalmarines.uk/search/search" method="post"
+								class="menu-content"
+								data-xf-init="quick-search">
+
+								<h3 class="menu-header">Search</h3>
+								
+								<div class="menu-row">
+									
+										<input type="text" class="input" name="keywords" placeholder="Search…" aria-label="Search" data-menu-autofocus="true" />
+									
+								</div>
+
+								
+								<div class="menu-row">
+									<label class="iconic"><input type="checkbox"  name="c[title_only]" value="1" /><i aria-hidden="true"></i><span class="iconic-label">Search titles only</span></label>
+
+								</div>
+								
+								<div class="menu-row">
+									<div class="inputGroup">
+										<span class="inputGroup-text" id="ctrl_search_menu_by_member">By:</span>
+										<input type="text" class="input" name="c[users]" data-xf-init="auto-complete" placeholder="Member" aria-labelledby="ctrl_search_menu_by_member" />
+									</div>
+								</div>
+								<div class="menu-footer">
+									<span class="menu-footer-controls">
+										<button type="submit" class="button--primary button button--icon button--icon--search"><span class="button-text">Search</span></button>
+										<a href="../../search/index.html" class="button"><span class="button-text">Advanced search…</span></a>
+									</span>
+								</div>
+
+								<input type="hidden" name="_xfToken" value="1619181398,e11c734d39af957d76c994e22a6f9933" />
+							</form>
+						</div>
+					
+				</div>
+			</div>
+		</div>
+	</nav>
+
+	</div>
+	
+	
+		<div class="p-sectionLinks">
+			<div class="p-sectionLinks-inner hScroller" data-xf-init="h-scroller">
+				<div class="hScroller-scroll">
+					<ul class="p-sectionLinks-list">
+					
+						<li>
+							
+	<div class="p-navEl " >
+		
+
+			
+	
+	<a href="../../whats-new/posts/index.html"
+		class="p-navEl-link "
+		
+		data-xf-key="alt+1"
+		data-nav-id="newPosts">New posts</a>
+
+
+			
+
+		
+		
+	</div>
+
+						</li>
+					
+						<li>
+							
+	<div class="p-navEl " data-has-children="true">
+		
+
+			
+	
+	<a href="../../find-threads/started"
+		class="p-navEl-link p-navEl-link--splitMenu "
+		
+		
+		data-nav-id="findThreads">Find threads</a>
+
+
+			<a data-xf-key="alt+2"
+				data-xf-click="menu"
+				data-menu-pos-ref="< .p-navEl"
+				class="p-navEl-splitTrigger"
+				role="button"
+				tabindex="0"
+				aria-label="Toggle expanded"
+				aria-expanded="false"
+				aria-haspopup="true"></a>
+
+		
+		
+			<div class="menu menu--structural" data-menu="menu" aria-hidden="true">
+				<div class="menu-content">
+					
+						
+	
+	
+	<a href="../../find-threads/started"
+		class="menu-linkRow u-indentDepth0 js-offCanvasCopy "
+		
+		
+		data-nav-id="yourThreads">Your threads</a>
+
+	
+
+					
+						
+	
+	
+	<a href="../../find-threads/contributed"
+		class="menu-linkRow u-indentDepth0 js-offCanvasCopy "
+		
+		
+		data-nav-id="contributedThreads">Threads with your posts</a>
+
+	
+
+					
+						
+	
+	
+	<a href="../../find-threads/unanswered"
+		class="menu-linkRow u-indentDepth0 js-offCanvasCopy "
+		
+		
+		data-nav-id="unansweredThreads">Unanswered threads</a>
+
+	
+
+					
+				</div>
+			</div>
+		
+	</div>
+
+						</li>
+					
+						<li>
+							
+	<div class="p-navEl " data-has-children="true">
+		
+
+			
+	
+	<a href="../../watched/threads"
+		class="p-navEl-link p-navEl-link--splitMenu "
+		
+		
+		data-nav-id="watched">Watched</a>
+
+
+			<a data-xf-key="alt+3"
+				data-xf-click="menu"
+				data-menu-pos-ref="< .p-navEl"
+				class="p-navEl-splitTrigger"
+				role="button"
+				tabindex="0"
+				aria-label="Toggle expanded"
+				aria-expanded="false"
+				aria-haspopup="true"></a>
+
+		
+		
+			<div class="menu menu--structural" data-menu="menu" aria-hidden="true">
+				<div class="menu-content">
+					
+						
+	
+	
+	<a href="../../watched/threads"
+		class="menu-linkRow u-indentDepth0 js-offCanvasCopy "
+		
+		
+		data-nav-id="watchedThreads">Watched threads</a>
+
+	
+
+					
+						
+	
+	
+	<a href="../../watched/forums"
+		class="menu-linkRow u-indentDepth0 js-offCanvasCopy "
+		
+		
+		data-nav-id="watchedForums">Watched forums</a>
+
+	
+
+					
+				</div>
+			</div>
+		
+	</div>
+
+						</li>
+					
+						<li>
+							
+	<div class="p-navEl " >
+		
+
+			
+	
+	<a href="../../search/index.html@type=post"
+		class="p-navEl-link "
+		
+		data-xf-key="alt+4"
+		data-nav-id="searchForums">Search forums</a>
+
+
+			
+
+		
+		
+	</div>
+
+						</li>
+					
+						<li>
+							
+	<div class="p-navEl " >
+		
+
+			
+	
+	<a href="https://www.royalmarines.uk/forums/-/mark-read?date=1619181398"
+		class="p-navEl-link "
+		 data-xf-click="overlay"
+		data-xf-key="alt+5"
+		data-nav-id="markForumsRead">Mark forums read</a>
+
+
+			
+
+		
+		
+	</div>
+
+						</li>
+					
+						<li>
+							
+	<div class="p-navEl " >
+		
+
+			
+	
+	<a href="../../history/index.html"
+		class="p-navEl-link "
+		
+		data-xf-key="alt+6"
+		data-nav-id="history">History</a>
+
+
+			
+
+		
+		
+	</div>
+
+						</li>
+					
+					</ul>
+				</div>
+			</div>
+		</div>
+	
+
+
+
+<div class="offCanvasMenu offCanvasMenu--nav js-headerOffCanvasMenu" data-menu="menu" aria-hidden="true" data-ocm-builder="navigation">
+	<div class="offCanvasMenu-backdrop" data-menu-close="true"></div>
+	<div class="offCanvasMenu-content">
+		<div class="offCanvasMenu-header">
+			Menu
+			<a class="offCanvasMenu-closer" data-menu-close="true" role="button" tabindex="0" aria-label="Close"></a>
+		</div>
+		
+			<div class="p-offCanvasAccountLink">
+				<div class="offCanvasMenu-linkHolder">
+					<a href="../../account/index.html" class="offCanvasMenu-link">
+						<span class="avatar avatar--xxs avatar--default avatar--default--dynamic" data-user-id="33459" style="background-color: #339966; color: #06130d" title="new">
+			<span class="avatar-u33459-s">N</span> 
+		</span>
+						new
+					</a>
+				</div>
+				<hr class="offCanvasMenu-separator" />
+			</div>
+		
+		<div class="js-offCanvasNavTarget"></div>
+	</div>
+</div>
+
+<div class="p-body">
+	<div class="p-body-inner">
+		<!--XF:EXTRA_OUTPUT-->
+
+		
+
+		
+
+		
+		
+	
+		<ul class="p-breadcrumbs "
+			itemscope itemtype="https://schema.org/BreadcrumbList">
+		
+			
+
+			
+			
+				
+				
+	<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+		<a href="../../index.html" itemprop="item">
+			<span itemprop="name">Home</span>
+		</a>
+		<meta itemprop="position" content="1" />
+	</li>
+
+			
+
+			
+				
+				
+	<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+		<a href="../../index.html" itemprop="item">
+			<span itemprop="name">Forums</span>
+		</a>
+		<meta itemprop="position" content="2" />
+	</li>
+
+			
+			
+
+		
+		</ul>
+	
+
+		
+
+	
+
+
+
+		
+
+
+	<noscript><div class="blockMessage blockMessage--important blockMessage--iconic u-noJsOnly">JavaScript is disabled. For a better experience, please enable JavaScript in your browser before proceeding.</div></noscript>
+
+		
+	<div class="blockMessage blockMessage--important blockMessage--iconic js-browserWarning" style="display: none">You are using an out of date browser. It  may not display this or other websites correctly.<br />You should upgrade or use an <a href="https://www.google.com/chrome/" target="_blank" rel="noopener">alternative browser</a>.</div>
+
+
+		
+			<div class="p-body-header">
+			
+				
+					<div class="p-title ">
+					
+						
+							<h1 class="p-title-value">Report content</h1>
+						
+						
+					
+					</div>
+				
+
+				
+			
+			</div>
+		
+
+		<div class="p-body-main  ">
+			
+
+			<div class="p-body-content">
+				
+				<div class="p-body-pageContent">
+
+
+			<form action="report" method="post" class="block"
+				 data-xf-init="ajax-submit" data-skip-overlay-redirect="true"
+			>
+				
+
+	<div class="block-container">
+		<div class="block-body">
+			
+			<dl class="formRow formRow--input">
+				<dt>
+					<div class="formRow-labelWrapper">
+					<label class="formRow-label" for="_xfUid-1-1619181398">Report reason</label></div>
+				</dt>
+				<dd>
+					<textarea class="input input--fitHeight" name="message" autofocus="autofocus" id="_xfUid-1-1619181398" data-xf-init="textarea-handler"></textarea>
+				</dd>
+			</dl>
+		
+		</div>
+		
+			<dl class="formRow formSubmitRow">
+				<dt></dt>
+				<dd>
+					<div class="formSubmitRow-main">
+						<div class="formSubmitRow-bar"></div>
+						<div class="formSubmitRow-controls"><button type="submit" class="button--primary button"><span class="button-text">Report</span></button></div>
+					</div>
+				</dd>
+			</dl>
+		
+	</div>
+
+				<input type="hidden" name="_xfToken" value="1619181398,e11c734d39af957d76c994e22a6f9933" />
+				
+			</form>
+		</div>
+				
+			</div>
+
+			
+		</div>
+
+		
+		
+	
+		<ul class="p-breadcrumbs p-breadcrumbs--bottom"
+			itemscope itemtype="https://schema.org/BreadcrumbList">
+		
+			
+
+			
+			
+				
+				
+	<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+		<a href="../../index.html" itemprop="item">
+			<span itemprop="name">Home</span>
+		</a>
+		<meta itemprop="position" content="1" />
+	</li>
+
+			
+
+			
+				
+				
+	<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+		<a href="../../index.html" itemprop="item">
+			<span itemprop="name">Forums</span>
+		</a>
+		<meta itemprop="position" content="2" />
+	</li>
+
+			
+			
+
+		
+		</ul>
+	
+
+		
+	</div>
+</div>
+
+<footer class="p-footer" id="footer">
+	<div class="p-footer-inner">
+
+		<div class="p-footer-row">
+			
+			<div class="p-footer-row-opposite">
+				<ul class="p-footer-linkList">
+					
+						
+							<li><a href="../../misc/contact" data-xf-click="overlay">Contact us</a></li>
+						
+					
+
+					
+						<li><a href="../../help/terms/index.html">Terms and rules</a></li>
+					
+
+					
+						<li><a href="../../help/privacy-policy/index.html">Privacy policy</a></li>
+					
+
+					
+						<li><a href="../../help/index.html">Help</a></li>
+					
+
+					
+						<li><a href="../../index.html">Home</a></li>
+					
+
+					<li><a href="../../forums/-/index.rss" target="_blank" class="p-footer-rssLink" title="RSS"><span aria-hidden="true"><i class="fa--xf far fa-rss" aria-hidden="true"></i><span class="u-srOnly">RSS</span></span></a></li>
+				</ul>
+			</div>
+		</div>
+
+		
+			<div class="p-footer-copyright">
+			
+				<a href="https://xenforo.com" class="u-concealed" dir="ltr" target="_blank" rel="sponsored noopener">Forum software by XenForo<sup>&reg;</sup> <span class="copyright">&copy; 2010-2021 XenForo Ltd.</span></a> | <a href="https://xenmade.com/" title="XenForo Add-ons" target="_blank" class="u-concealed">Add-Ons</a> by xenMade.com
+				
+			
+			</div>
+		
+
+		
+	</div>
+</footer>
+
+</div> <!-- closing p-pageWrapper -->
+
+<div class="u-bottomFixer js-bottomFixTarget">
+	
+	
+</div>
+
+
+	<div class="u-scrollButtons js-scrollButtons" data-trigger-type="up">
+		<a href="report#top" class="button--scroll button" data-xf-click="scroll-to"><span class="button-text"><i class="fa--xf far fa-arrow-up" aria-hidden="true"></i><span class="u-srOnly">Top</span></span></a>
+		
+	</div>
+
+
+
+	<script src="../../js/vendor/jquery/jquery-3.5.1.min.js@_v=67ce1dfd"></script>
+	<script src="../../js/vendor/vendor-compiled.js@_v=67ce1dfd"></script>
+	<script src="../../js/xf/core-compiled.js@_v=67ce1dfd"></script>
+	
+	<script>
+		jQuery.extend(true, XF.config, {
+			// 
+			userId: 33459,
+			enablePush: false,
+			pushAppServerKey: 'BLEAnyFlmkAAzD3sTVhcxCdaGFn8sgNCbPJO4GPxlZLt2Cz+JxTjVrEYe7TdGNiMr+aKdPFV1Qo5vfhweS5WrHM=',
+			url: {
+				fullBase: 'https://www.royalmarines.uk/',
+				basePath: '/',
+				css: '/css.php?css=__SENTINEL__&s=7&l=1&d=1618860172',
+				keepAlive: '/login/keep-alive'
+			},
+			cookie: {
+				path: '/',
+				domain: '',
+				prefix: 'xf_',
+				secure: true
+			},
+			cacheKey: '391b13706c7e1dd1fdd95b030e75916c',
+			csrf: '1619181398,e11c734d39af957d76c994e22a6f9933',
+			js: {},
+			css: {"public:extra.less":true},
+			time: {
+				now: 1619181398,
+				today: 1619132400,
+				todayDow: 5,
+				tomorrow: 1619218800,
+				yesterday: 1619046000,
+				week: 1618614000
+			},
+			borderSizeFeature: '3px',
+			fontAwesomeWeight: 'r',
+			enableRtnProtect: true,
+			enableFormSubmitSticky: true,
+			uploadMaxFilesize: 25165824,
+			allowedVideoExtensions: ["m4v","mov","mp4","mp4v","mpeg","mpg","ogv","webm"],
+			allowedAudioExtensions: ["mp3","ogg","wav"],
+			shortcodeToEmoji: true,
+			visitorCounts: {
+				conversations_unread: '0',
+				alerts_unviewed: '0',
+				total_unread: '0',
+				title_count: true,
+				icon_indicator: true
+			},
+			jsState: {},
+			publicMetadataLogoUrl: '',
+			publicPushBadgeUrl: 'https://www.royalmarines.uk/styles/default/xenforo/bell.png'
+		});
+
+		jQuery.extend(XF.phrases, {
+			// 
+			date_x_at_time_y: "{date} at {time}",
+			day_x_at_time_y:  "{day} at {time}",
+			yesterday_at_x:   "Yesterday at {time}",
+			x_minutes_ago:    "{minutes} minutes ago",
+			one_minute_ago:   "1 minute ago",
+			a_moment_ago:     "A moment ago",
+			today_at_x:       "Today at {time}",
+			in_a_moment:      "In a moment",
+			in_a_minute:      "In a minute",
+			in_x_minutes:     "In {minutes} minutes",
+			later_today_at_x: "Later today at {time}",
+			tomorrow_at_x:    "Tomorrow at {time}",
+
+			day0: "Sunday",
+			day1: "Monday",
+			day2: "Tuesday",
+			day3: "Wednesday",
+			day4: "Thursday",
+			day5: "Friday",
+			day6: "Saturday",
+
+			dayShort0: "Sun",
+			dayShort1: "Mon",
+			dayShort2: "Tue",
+			dayShort3: "Wed",
+			dayShort4: "Thu",
+			dayShort5: "Fri",
+			dayShort6: "Sat",
+
+			month0: "January",
+			month1: "February",
+			month2: "March",
+			month3: "April",
+			month4: "May",
+			month5: "June",
+			month6: "July",
+			month7: "August",
+			month8: "September",
+			month9: "October",
+			month10: "November",
+			month11: "December",
+
+			active_user_changed_reload_page: "The active user has changed. Reload the page for the latest version.",
+			server_did_not_respond_in_time_try_again: "The server did not respond in time. Please try again.",
+			oops_we_ran_into_some_problems: "Oops! We ran into some problems.",
+			oops_we_ran_into_some_problems_more_details_console: "Oops! We ran into some problems. Please try again later. More error details may be in the browser console.",
+			file_too_large_to_upload: "The file is too large to be uploaded.",
+			uploaded_file_is_too_large_for_server_to_process: "The uploaded file is too large for the server to process.",
+			files_being_uploaded_are_you_sure: "Files are still being uploaded. Are you sure you want to submit this form?",
+			attach: "Attach files",
+			rich_text_box: "Rich text box",
+			close: "Close",
+			link_copied_to_clipboard: "Link copied to clipboard.",
+			text_copied_to_clipboard: "Text copied to clipboard.",
+			loading: "Loading…",
+
+			processing: "Processing",
+			'processing...': "Processing…",
+
+			showing_x_of_y_items: "Showing {count} of {total} items",
+			showing_all_items: "Showing all items",
+			no_items_to_display: "No items to display",
+
+			number_button_up: "Increase",
+			number_button_down: "Decrease",
+
+			push_enable_notification_title: "Push notifications enabled successfully at Royal Marines",
+			push_enable_notification_body: "Thank you for enabling push notifications!"
+		});
+	</script>
+
+	<form style="display:none" hidden="hidden">
+		<input type="text" name="_xfClientLoadTime" value="" id="_xfClientLoadTime" title="_xfClientLoadTime" tabindex="-1" />
+	</form>
+
+	
+
+
+
+	<script type="text/template" id="xfReactTooltipTemplate">
+		<div class="tooltip-content-inner">
+			<div class="reactTooltip">
+				
+					<a href="report#" class="reaction reaction--1" data-reaction-id="1"><i aria-hidden="true"></i><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="reaction-sprite js-reaction" alt="Like" title="Like" data-xf-init="tooltip" data-extra-class="tooltip--basic tooltip--noninteractive" /></a>
+				
+					<a href="report#" class="reaction reaction--9" data-reaction-id="9"><i aria-hidden="true"></i><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="reaction-sprite js-reaction" alt="Disagree" title="Disagree" data-xf-init="tooltip" data-extra-class="tooltip--basic tooltip--noninteractive" /></a>
+				
+					<a href="report#" class="reaction reaction--11" data-reaction-id="11"><i aria-hidden="true"></i><img src="../../styles/default/xenforo/reactions/emoticons/greentick.png"  class="reaction-image js-reaction" alt="Gen Dit" title="Gen Dit" data-xf-init="tooltip" data-extra-class="tooltip--basic tooltip--noninteractive" /></a>
+				
+					<a href="report#" class="reaction reaction--13" data-reaction-id="13"><i aria-hidden="true"></i><img src="../../styles/default/xenforo/reactions/emoticons/eye.png"  class="reaction-image js-reaction" alt="Seen" title="Seen" data-xf-init="tooltip" data-extra-class="tooltip--basic tooltip--noninteractive" /></a>
+				
+					<a href="report#" class="reaction reaction--14" data-reaction-id="14"><i aria-hidden="true"></i><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="reaction-sprite js-reaction" alt="Hoofin" title="Hoofin" data-xf-init="tooltip" data-extra-class="tooltip--basic tooltip--noninteractive" /></a>
+				
+					<a href="report#" class="reaction reaction--15" data-reaction-id="15"><i aria-hidden="true"></i><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="reaction-sprite js-reaction" alt="Winner" title="Winner" data-xf-init="tooltip" data-extra-class="tooltip--basic tooltip--noninteractive" /></a>
+				
+					<a href="report#" class="reaction reaction--16" data-reaction-id="16"><i aria-hidden="true"></i><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="reaction-sprite js-reaction" alt="Gucci Info" title="Gucci Info" data-xf-init="tooltip" data-extra-class="tooltip--basic tooltip--noninteractive" /></a>
+				
+					<a href="report#" class="reaction reaction--17" data-reaction-id="17"><i aria-hidden="true"></i><img src="../../styles/default/xenforo/reactions/emoticons/nailed_it.png"  class="reaction-image js-reaction" alt="Nailed It" title="Nailed It" data-xf-init="tooltip" data-extra-class="tooltip--basic tooltip--noninteractive" /></a>
+				
+			</div>
+		</div>
+	</script>
+
+
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+

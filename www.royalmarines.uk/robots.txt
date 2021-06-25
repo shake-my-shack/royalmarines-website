@@ -1,0 +1,10 @@
+User-agent: *
+
+Disallow: /members/
+
+Allow: /
+
+
+
+
+Sitemap: https://www.royalmarines.uk/sitemap.xml
